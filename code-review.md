@@ -4,7 +4,7 @@
 This code review video provides a walkthrough of my selected artifacts before enhancement. It explains the original functionality of each project, areas identified for improvement, and the enhancement plans that supported my ePortfolio work.
 
 ## Video Link
-[Watch my code review video](PASTE YOUR VIDEO LINK HERE)
+[Watch my code review video](https://youtu.be/FaXVoePbfKU)
 
 ## Summary
 In this code review, I discuss:
