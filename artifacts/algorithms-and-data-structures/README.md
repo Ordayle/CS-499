@@ -14,4 +14,4 @@ This artifact is a C++ program that tests numeric overflow and underflow conditi
 ## Files Included
 - [Original Numeric Overflow Program](Original%20-%20NumericOverflow/)
 - [Enhanced Numeric Overflow Program](Enhanced-Numeric%20Overflow/)
-- [Milestone Narrative Document](4-2%20Milestone%20Three__Enhancement%20Two_%20Algorithms%20and%20Data%20Structure%20-%20Jordan%20Bankston.docx)
+- [Milestone Narrative Document](4-2%20Milestone%20Three_%20Enhancement%20Two_%20Algorithms%20and%20Data%20Structure%20-%20Jordan%20Bankston.docx)
