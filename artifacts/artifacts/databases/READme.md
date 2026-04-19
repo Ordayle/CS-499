@@ -4,13 +4,22 @@
 SQL Injection Prevention Program (CS 405)
 
 ## Description
-This artifact is a C++ and SQLite program that demonstrates database queries, SQL injection risks, and secure handling of user input.
+This artifact is a C++ and SQLite program that demonstrates database queries, SQL injection vulnerabilities, and secure handling of user input.
 
 ## Enhancements
-- Maintained SQL injection detection logic
-- Added prepared statements
-- Added parameter binding for secure queries
-- Improved database security and reliability
+- Implemented SQL injection detection logic  
+- Added prepared statements for safer query execution  
+- Used parameter binding to prevent malicious input  
+- Improved overall database security and reliability  
 
 ## Skills Demonstrated
-This artifact demonstrates my understanding of database interaction, SQL security, and secure coding practices.
+This artifact demonstrates my understanding of:
+- Database interaction using SQL  
+- SQL injection vulnerabilities and prevention  
+- Secure coding practices  
+- Input validation and defensive programming
+
+## Files Included
+- [Enhanced SQL Injection Program](SQL%20Injection%20-%20Enhanced/)
+- [Original SQL Injection Program](SQLInjection%20-%20Original/)
+- [Milestone Narrative](Enhancement%20Three__Databases%20-%20Jordan%20Bankston.docx)
