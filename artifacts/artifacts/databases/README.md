@@ -20,6 +20,6 @@ This artifact demonstrates my understanding of:
 - Input validation and defensive programming
 
 ## Files Included
-- [Enhanced SQL Injection Program](artifacts/artifacts/databases/SQL%20Injection%20-%20Enhanced.zip)
-- [Original SQL Injection Program](artifacts/artifacts/databases/SQLInjection%20-%20Original.zip)
-- [Milestone Narrative](artifacts/artifacts/databases/Enhancement%20Three_%20Databases%20-%20Jordan%20Bankston.docx)
+- [Enhanced SQL Injection Program](artifacts/databases/SQL%20Injection%20-%20Enhanced.zip)
+- [Original SQL Injection Program](artifacts/databases/SQLInjection%20-%20Original.zip)
+- [Milestone Narrative](artifacts/databases/Enhancement%20Three_%20Databases%20-%20Jordan%20Bankston.docx)
