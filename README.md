@@ -12,18 +12,27 @@ My long-term goal is to pursue a career in cybersecurity, with the intention of 
 ## Portfolio Contents
 - [Professional Self-Assessment](self-assessment.md)
 - [Code Review](code-review.md)
-- Software Design and Engineering *(see artifacts folder)*
-- Algorithms and Data Structures *(see artifacts folder)*
-- Databases *(see artifacts folder)*
+- [Software Design and Engineering](artifacts/software-design-and-engineering/README.md)
+- [Algorithms and Data Structures](artifacts/algorithms-and-data-structures/README.md)
+- [Databases](artifacts/databases/README.md)
+
+---
+
+## Skills and Areas of Focus
+This portfolio demonstrates my abilities across three key areas of computer science:
+
+- **Software Design and Engineering** – improving code structure, readability, and maintainability  
+- **Algorithms and Data Structures** – handling logic, efficiency, and edge cases  
+- **Databases** – working with data securely and preventing vulnerabilities such as SQL injection  
 
 ---
 
 ## Featured Skills
-- Software design and code improvement
-- Secure coding and vulnerability awareness
-- SQL injection prevention and database security
-- Algorithm analysis and defensive programming
-- Clear communication of technical concepts
+- Software design and code improvement  
+- Secure coding and vulnerability awareness  
+- SQL injection prevention and database security  
+- Algorithm analysis and defensive programming  
+- Clear communication of technical concepts  
 
 ---
 
